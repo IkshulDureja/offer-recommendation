@@ -4,7 +4,7 @@ This project uses computer vision and artificial intelligence to analyze images 
 
 ## 🚀 Features
 
-- 🖼️ Image analysis using AI models (CNNs / vision-based deep learning)
+- 🖼️ Image analysis using AI models 
 - 🎯 Personalized offer recommendation engine
 - 📦 Easily extensible with product and offer databases
 - 🔐 Environment variable support using `.env`

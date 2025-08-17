@@ -94,3 +94,4 @@ if uploaded_file is not None:
 
         st.subheader("Detected Features:")
         st.write(response.content)
+

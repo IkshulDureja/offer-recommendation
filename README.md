@@ -24,8 +24,7 @@ Make sure you have Python installed. You can install the dependencies (to be lis
 
 ```bash
 pip install -r requirements.txt
-
-
+```
 
 ## Create a .env file based on .env.example to configure keys such as:
 OPENAI_API_KEY - <>

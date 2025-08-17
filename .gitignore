@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+.env
+.venv/
+ENV/
+env/
+envv/
+
+
+# Optional: common ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.DS_Store

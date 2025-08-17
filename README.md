@@ -1,4 +1,4 @@
-# AI-Driven Offer Recommendation from Image Analysis
+# Offer Recommendation 
 
 This project uses computer vision and artificial intelligence to analyze images (e.g., product photos or customer uploads) and recommend relevant promotional offers based on the visual content. The goal is to personalize the shopping experience by identifying products or brands in an image and generating targeted discounts or deals in real time.
 
